@@ -1,0 +1,24 @@
+{
+    "name": "xspf",
+    "version": "0.0.1",
+    "description": "XSPF async parser",
+    "keywords": ["xspf", "async", "parser"],
+    "homepage": "https://github.com/rithis/node-xspf",
+    "bugs": {
+        "email": "support@rithis.com",
+        "url": "https://github.com/rithis/node-xspf/issues",
+        "wiki": "https://github.com/rithis/node-xspf/wiki"
+    },
+    "author": {
+        "name": "Vyacheslav Slinko",
+        "email": "vyacheslav.slinko@rithis.com"
+    },
+    "main": "xspf.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rithis/node-xspf.git"
+    },
+    "dependencies": {
+        "xml-stream": "*"
+    }
+}
